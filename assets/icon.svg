@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="196mm"
+   height="196mm"
+   viewBox="0 0 694.48819 694.48819"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\shalom\Documents\work\oculus-store-sales-filter\assets\icon-48x48.png"
+   inkscape:export-xdpi="6.2204084"
+   inkscape:export-ydpi="6.2204084">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="-307.93723"
+     inkscape:cy="44.384324"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="760"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(75.142136,-158.44469)">
+    <g
+       id="g4163"
+       transform="translate(0.89648962,-4.7448248)">
+      <path
+         sodipodi:nodetypes="ccczcccczcc"
+         inkscape:connector-curvature="0"
+         id="path3347"
+         d="m 347.49248,240.19956 0,140.4112 -160.61426,0 c 0,0 -44.44671,9.19352 -44.44671,55.55839 0,46.36488 44.44671,64.64976 44.44671,64.64976 l 160.61426,0 0,145.46197 -161.62441,0 c 0,0 -174.251314,-34.24634 -174.251314,-216.17264 0,-181.92631 174.251314,-190.16122 174.251314,-190.16122 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 229.90247,414.0567 0,140.4112 160.61426,0 c 0,0 44.44671,9.19352 44.44671,55.55839 0,46.36488 -44.44671,64.64976 -44.44671,64.64976 l -160.61426,0 0,145.46197 161.62441,0 c 0,0 174.25132,-34.24634 174.25132,-216.17264 0,-181.92631 -174.25132,-190.16122 -174.25132,-190.16122 z"
+         id="path4151"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccczcccczcc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="M -61,218.07649 559.71428,838.79077"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -18,182.07649 602.71428,802.79077"
+         id="path4155"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="use4157"
+         d="M -12,187.07649 608.71428,807.79077"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(-49,31)"
+         id="use4161"
+         xlink:href="#use4157"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>
