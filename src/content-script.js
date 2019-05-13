@@ -82,6 +82,8 @@ function apply_filters()
 	hide_purchased();
 	
 	var list = [
+		1990542257627879, // Drops Rhythm Garden
+		1766581036755768, // Mars is a real place
 		2108572332534065,
 		1257633284291446
 	];
