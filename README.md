@@ -1,2 +1,2 @@
 # oculus-store-sales-filter
-Hide items (purchased or disliked) from the Oculus "store" from the on-sale list
+Google Chrome extension to hide items (purchased or disliked) from the Oculus "store" from the on-sale list
