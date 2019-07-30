@@ -1,6 +1,6 @@
 {
    "name": "Filter of Oculus Store items",
-   "version": "0.0.1",
+   "version": "0.0.2",
    "manifest_version" : 2,
 
    "description": "Hides items you've already purchased, or just items you don't want to see.",
@@ -22,7 +22,7 @@
          "matches": ["https://www.oculus.com/experiences/rift/section/1578364258944223/*"],
          "js": [
             "jquery-1.8.2.js",
-            "content-script.js"
+            "hide-items-content-script.js"
          ],
          "run_at": "document_start"
       }
